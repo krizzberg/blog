@@ -20,3 +20,22 @@
   padding: 6px;
   background-color: green;
 }
+
+ img {
+  height: 200px;
+}
+
+.bigfootpic {
+  float: left;
+}
+
+.sidebar { width: 30%;
+  float: left;
+  background-color: yellow;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  padding: 10px;
+}
