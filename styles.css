@@ -5,3 +5,12 @@
 .unimportant {
   color: red;
 }
+
+.about {
+  text-decoration: underline;
+  color: teal;
+}
+
+.aboutme {
+  font-style: italic;
+}
