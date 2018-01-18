@@ -39,3 +39,19 @@
   float: left;
   padding: 10px;
 }
+
+#kyle {
+  color: aqua;
+}
+
+.blog p {
+  font-weight: bold;
+}
+
+.blog a {
+  font-style: italic;
+}
+
+.column h2  {
+  font-style: italic;
+}
